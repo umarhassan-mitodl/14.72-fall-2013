@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Labor Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ]
+  ],
+  "legacy_uid": "95b957f5-dfe4-54c3-c268-7095a24f3465",
+  "instructors": {
+    "content": [
+      "f492a932-0e7f-c201-fd85-1a84a808a284"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4cca4a5f-7bff-331e-34f8-fe27b477b006",
+    "website": "14-72-capitalism-and-its-critics-fall-2013"
+  },
+  "course_title": "Capitalism and Its Critics",
+  "course_description": "This course addresses the evolution of the modern capitalist economy and evaluates its current structure and performance. Various paradigms of economics are contrasted and compared (neoclassical, Marxist, socioeconomic, and neocorporate) in order to understand how modern capitalism has been shaped and how it functions in today's economy. The course stresses general analytic reasoning and problem formulation rather than specific analytic techniques. Readings include classics in economic thought as well as contemporary analyses.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.72",
+  "course_image_thumbnail": {
+    "content": "2fe9c798-2690-9323-5c85-7a7ca2b5a9d4",
+    "website": "14-72-capitalism-and-its-critics-fall-2013"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "d32083e6-6c89-4aff-af2d-8e38127e9ced",
+  "site_short_id": "14.72-fall-2013",
+  "site_url_path": "courses/14-72-capitalism-and-its-critics-fall-2013",
+  "title": "Course Metadata"
+}
