@@ -65,7 +65,7 @@ Paradigms in Social Science
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Film: {{% resource_link "95c73b85-50cb-4037-b51b-90a825772c87" "_The Fountainhead_" %}}. Directed by King Vidor. Black and White, 114 min. 1949.
+Film: [_The Fountainhead_](http://www.imdb.com/title/tt0041386/?ref_=nv_sr_1). Directed by King Vidor. Black and White, 114 min. 1949.
 {{< tdclose >}}
 {{< tdopen >}}
  
